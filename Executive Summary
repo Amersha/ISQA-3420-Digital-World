@@ -10,4 +10,13 @@ Executive Summary
   help them save time and energy. The two assistants enter the details like training description, cost for training
   and the schedule of the training manually into the website. To make the tasks simpler Nebraska Business Training 
   has contacted the Trustworthy Computing Services.
-
+  The goal of the project is to provide a self-service option to customers (employee’s and Managers) and to reduce 
+  the work load of the assistants. This can be done by allowing clients to review all the classes and type of classes 
+  that are being offered and giving them an option to sign up for classes. They should also be able to make a payment
+  through the new website. The new website should have some extra features such as alerting the customers if the classes
+  are full, the customers should also be notified that they would not be charged until the class begins. The system will
+  store only a code for each transactions and should not store the credit card details thereby making it more secure.
+  The teachers should not only be able to register as instructors but should also be able to download class material,
+  send surveys to students and receive feedbacks from the students. As it can be seen that the project mainly focuses
+  on automating a few tasks and providing more flexibility to the clients. Labor costs can be saved as they do not need 
+  to increase the number of assistants as the business grows and also helps save of the clients.
