@@ -1,1 +1,9 @@
+Title: NIST CPE & CVE information
+Primary actor: corporate developer
+Goal: analyze the vulnerability from the information retrieved by the code modules.
+Corporate manager: receives project information.
+Corporate developer: to provide vulnerability related information to the manager.
+ Precondition:  file/package retrieved from the online repository.
+Pass condition: CPE and CVE information successfully obtained from the NIST database
+Fail condition: any of the information missing.
 
