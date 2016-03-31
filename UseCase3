@@ -1,1 +1,7 @@
+Title: manage policy information.
+Primary actor: corporate manager
+Goal: manager requests information on the policies designed by the organization or by the external source on the specific file/package module.
+Precondition: organization policy database to query.
+Pass condition: able to receive information from policy database and receive descriptive information on the files/packages.
+Fail condition: manager unable to receive the information from the database or receiving false information or when the policy database is not updated.
 
