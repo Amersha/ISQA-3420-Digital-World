@@ -1,1 +1,7 @@
+Title:  manage project information
+Primary actor: corporate manager
+Goal: when the developer provide the information, the manager should be able to get information on the requested package/file modules.
+Precondition: file/package retrieved from the online repository.
+Pass condition: corporate developer able to submit the file/package information and manager receiving valid information.
+ Fail condition: any package/file module information missing.
 
