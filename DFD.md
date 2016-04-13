@@ -1,1 +1,1 @@
-![data flow diagram](https://cloud.githubusercontent.com/assets/17552181/14485097/55497b24-011a-11e6-99e8-b78eabaafe08.png)
+![image](https://cloud.githubusercontent.com/assets/17552181/14485196/34228fa2-011b-11e6-84a8-1b011283c339.gif)
